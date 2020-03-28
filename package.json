@@ -1,0 +1,27 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "Project Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadzuki/project-nodejs.git"
+  },
+  "keywords": [
+    "project",
+    "nodejs"
+  ],
+  "author": "Ahmad Marzuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amadzuki/project-nodejs/issues"
+  },
+  "homepage": "https://github.com/amadzuki/project-nodejs#readme",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.4.1"
+  }
+}
